@@ -35,3 +35,6 @@ jobs:
           HD_BASE_URL_OF_BOT: ${{secrets.BASE_URL_OF_BOT}}
           HD_HEROKU_APP_NAME: ${{secrets.HEROKU_APP_NAME}}
           HD_HEROKU_API_KEY: ${{secrets.HEROKU_API_KEY}}
+          HD_MEGA_PASSWORD: ${{secrets.MEGA_PASSWORD}}
+          HD_MEGA_EMAIL_ID: ${{secrets.MEGA_EMAIL_ID}}
+          HD_MEGA_API_KEY: ${{secrets.MEGA_API_KEY}}
